@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "neighbourhoodie-test-package": "^66.0.0"
+    "neighbourhoodie-test-package": "^66.3.0"
   }
 }
