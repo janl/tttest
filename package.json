@@ -1,0 +1,14 @@
+{
+  "name": "tttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "neighbourhoodie-test-package": "^66.0.0"
+  }
+}
